@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Heresy"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "My website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -60,9 +60,9 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
-facebook:
+weibo:
+  username               :https://weibo.com/zwh2011/
+wechat:
   username               :
   app_id                 :
   publisher              :
@@ -83,9 +83,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Heresy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "what can I do "
   location         : "Somewhere"
   email            :
   uri              :
