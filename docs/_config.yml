@@ -64,9 +64,9 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
+Weibo:
   username               : &twitter "mmistakes"
-facebook:
+wechat:
   username               : &facebook "michaelrose"
   app_id                 :
   publisher              :
@@ -77,8 +77,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://facebook.com/michaelrose"
+    - "https://weibo.com/zwh2011/home#_0"
+    - "https://weibo.com/zwh2011/home#_0"
 
 # Analytics
 analytics:
