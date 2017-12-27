@@ -1,14 +1,17 @@
 # main links
 main:
-  - title: "开始导航"
-    url: https://github.com/Heresy007/Heresy007.github.io
-  # excerpt:"我的代码仓库"
-  # image:
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+ - title: "HTML笔记"
+   excerpt: "人生如戏，全靠演技"
+   url: /SDG/ 
+  
+ - title: "可视化笔记"
+   excerpt: "有的吃唔吃，罪大恶极"
+   url: /SDG/
+    
+ - title: "作品集"
+   excerpt: "郑文浩的作品集"
+   url: /portfolio/
+    
+ - title: "我的错题本"
+   excerpt: "人生苦短python作伴 "
+   url: /SDG/
