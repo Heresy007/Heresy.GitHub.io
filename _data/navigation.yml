@@ -1,17 +1,21 @@
 # main links
 main:
- - title: "HTML笔记"
-   excerpt: "人生如戏，全靠演技"
-   url: /SDG/ 
-  
- - title: "可视化笔记"
-   excerpt: "有的吃唔吃，罪大恶极"
-   url: /SDG/
-    
- - title: "作品集"
-   excerpt: "郑文浩的作品集"
-   url: /portfolio/
-    
- - title: "我的错题本"
-   excerpt: "人生苦短python作伴 "
-   url: /SDG/
+- title: "信息可视化作品集"
+  url: /infovis/
+  excerpt: "人生如戏，全靠演技"
+  image: learning_teaching.gif
+
+- title: "可视化笔记"
+  url: /posts//infovis/
+  excerpt: "有得吃唔吃，罪大恶极"
+  image: Tower_of_Babel.jpg
+
+- title: "HTML作品集"
+  url: /portfolio/
+  excerpt: "我的作品集"
+  image: 300x200.gif
+
+- title: "HTML笔记"
+  url: /posts//rwd/
+  excerpt: "人生苦短，我用python"
+  image: Pigeon_post.jpg
