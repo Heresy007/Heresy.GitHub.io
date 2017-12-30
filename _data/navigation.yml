@@ -3,19 +3,19 @@ main:
 - title: "信息可视化作品集"
   url: /infovis/
   excerpt: "人生如戏，全靠演技"
-  image: learning_teaching.gif
+  image: learning_teaching.png
 
 - title: "可视化笔记"
   url: /posts//infovis/
   excerpt: "有得吃唔吃，罪大恶极"
-  image: Tower_of_Babel.jpg
+  image: Tower_of_Babel.png
 
 - title: "HTML作品集"
   url: /portfolio/
   excerpt: "我的作品集"
-  image: 300x200.gif
+  image: TT.png
 
 - title: "HTML笔记"
   url: /posts//rwd/
   excerpt: "人生苦短，我用python"
-  image: Pigeon_post.jpg
+  image: TG.png

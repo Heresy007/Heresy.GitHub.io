@@ -2,7 +2,7 @@
 layout: default
 title:  "11月16-网页设计课堂笔记"
 date:   2017-12-22 23:45:15 +0800
-categories: jekyll update
+categories: posts rwd
 ---
 ---
 #  HTML5、css3响应式设计
