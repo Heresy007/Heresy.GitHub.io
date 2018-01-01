@@ -8,17 +8,17 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en"
+locale                   : "zh"
 title                    : "Heresy"
 title_separator          : "-"
-name                     : "H"
+name                     : "郑文浩"
 description              : "My website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Heresy007.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 200      
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -84,9 +84,9 @@ analytics:
 # Site Author
 author:
   name             : "Heresy"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "what can I do "
-  location         : "just do it"
+  avatar           : "/assets/images/TG.png"
+  bio              : "中山大学南方学院 2016级 网络与新媒体 "
+  location         : "广东-清远"
   email            : "1448658557@qq.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Heresy007"
+  github           : "Heresy007" 
   gitlab           :
   google_plus      :
   keybase          :
@@ -110,7 +110,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            :
+  weibo            : "-HerEsy"
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
