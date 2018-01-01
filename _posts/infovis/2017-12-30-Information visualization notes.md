@@ -2,7 +2,8 @@
 layout: default
 title:  "Information visualization notes"
 date:   2017-12-22 23:45:15 +0800
-categories: jekyll update
+categories: posts infovis
+Tags: jekyll
 ---
 ## 数据可视化课堂笔记
 1. 数据可视化课堂笔记
