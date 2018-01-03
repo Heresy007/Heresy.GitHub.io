@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 
 
 title:  "_posts上传中出现index of问题解决方法汇总"

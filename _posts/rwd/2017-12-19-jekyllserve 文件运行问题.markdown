@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title:  "jekyll-cannot load such file -- bundle/bundler/setup (LoadError)"
 date:   2017-12-07 23:45:15 +0800
 categories: jekyll update

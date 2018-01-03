@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title:  "Jekyll读取中文文档出现乱码问题"
 date:   2017-12-29 23:45:15 +0800
 categories: jekyll update

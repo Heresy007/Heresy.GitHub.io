@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title:  "Response Web design book notes"
 date:   2017-12-22 23:45:15 +0800
 categories: posts  rwd
