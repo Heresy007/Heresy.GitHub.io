@@ -99,7 +99,7 @@ es-CO:
 # French
 # -----------------
 fr: &DEFAULT_FR
-  page                       : "Page"
+  page                       : "页数"
   pagination_previous        : "Précédent"
   pagination_next            : "Suivant"
   breadcrumb_home_label      : "Accueil"
