@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "jekyll-cannot load such file -- bundle/bundler/setup (LoadError)"
+title:  "power shell 运行出现问题解决步骤"
 date:   2017-12-07 23:45:15 +0800
 categories: jekyll update
 ---

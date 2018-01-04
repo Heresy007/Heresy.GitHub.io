@@ -2,6 +2,9 @@
 layout: archive
 title:  "Information visualization notes"
 date:   2017-12-22 23:45:15 +0800
+header:
+  image: /assets/images/SKY.jpg
+  teaser: /assets/images/cat2.png
 categories: posts infovis
 Tags: infovis
 ---

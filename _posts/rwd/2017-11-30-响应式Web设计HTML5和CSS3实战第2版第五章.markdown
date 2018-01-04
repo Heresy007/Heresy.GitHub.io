@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  "响应式Web设计HTML5和CSS3实战第2版第五章（未完）"
+layout: archive
+title:  "WSG4第五章笔记"
 date:   2017-12-07 23:45:15 +0800
 categories: jekyll update
 ---
