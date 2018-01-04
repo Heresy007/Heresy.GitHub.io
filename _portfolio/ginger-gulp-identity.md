@@ -13,7 +13,7 @@ sidebar:
     text: "哥只是个传说"
 ---
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-	<head meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+	<head meta http-equiv =“Content-Security-Policy”content =“upgrade-insecure-requests”/>
     <base href="http://www.cccyun.net/biaobai_aixinjishi/" />
 	
 	<title>爱心计时表白网页</title>
