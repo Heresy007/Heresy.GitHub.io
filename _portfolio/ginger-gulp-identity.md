@@ -13,7 +13,7 @@ sidebar:
     text: "哥只是个传说"
 ---
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-	<head meta http-equiv =“Content-Security-Policy”content =“upgrade-insecure-requests”/>
+	<head meta http-equiv =“Content-Security-Policy”content =“upgrade-insecure-requests”>
     <base href="http://www.cccyun.net/biaobai_aixinjishi/" />
 	
 	<title>爱心计时表白网页</title>
@@ -92,4 +92,5 @@ sidebar:
 <embed id="main_audio_ie8" hidden="true" autostart="true" height="0" width=0 loop="true" src="" autoplay="autoplay"/>
 </audio>
 <div style="display:none"><script src="https://s4.cnzz.com/z_stat.php?id=1261929593&web_id=1261929593" language="JavaScript"></script></div></body>
+</head>
 </html>
