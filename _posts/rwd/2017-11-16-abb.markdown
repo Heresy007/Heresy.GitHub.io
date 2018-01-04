@@ -1,8 +1,17 @@
 ---
 layout: archive
-title:  "网页设计课堂笔记"
-date:   2017-12-22 23:45:15 +0800
-categories: posts rwd
+title: "HTML5、css3响应式设计"
+excerpt: "HTML5、css3响应式设计"
+header:
+  image: /assets/images/city2.png
+  teaser: /assets/images/cat.png
+sidebar:
+  - title: "Heresy"
+    image: /assets/images/
+    image_alt: "logo"
+    text: "艺术源于生活，高于生活"
+  - title: "不要迷恋哥"
+    text: "哥只是个传说"
 ---
 ---
 #  HTML5、css3响应式设计

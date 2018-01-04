@@ -1,8 +1,10 @@
 ---
 layout: archive
-title:  "WSG4第五章笔记"
-date:   2017-12-07 23:45:15 +0800
-categories: jekyll update
+title: "RWD2第五章笔记"
+excerpt: "HTML5、css3响应式设计"
+header:
+  image: /assets/images/city2.png
+  teaser: /assets/images/cat.png
 ---
 # css3新特新
 ## 一.多列布局
