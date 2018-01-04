@@ -239,6 +239,16 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  infovis:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Defaults
 defaults:
   # _posts
@@ -249,6 +259,23 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+  # _docs
+  - scope:
+      path: ""
+      type: infovis
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
