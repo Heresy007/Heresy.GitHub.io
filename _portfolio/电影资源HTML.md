@@ -1,6 +1,6 @@
 ---
 title: "电影资源HTML"
-excerpt: "Ginger Gulp design system including logo mark, website design, and branding applications."
+excerpt: ""
 header:
   image: /assets/images/
   teaser: assets/images/taideng.png
