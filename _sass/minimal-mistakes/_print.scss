@@ -42,26 +42,33 @@
     line-height: 1.2;
     margin-bottom: 0.75rem;
     margin-top: 0;
-  }
+	}
+#main > div.archive {
+	column-count: 2!important;
+	column-gap: 2em;
+	column-rule: thin dotted #999;
+	column-width: 12em;
+}
+  
 
   h1 {
-    font-size: 2.5rem;
+    font-size: 1rem;
   }
 
   h2 {
-    font-size: 2rem;
+    font-size: 1rem!important;
   }
 
   h3 {
-    font-size: 1.75rem;
+    font-size: 1rem;
   }
 
   h4 {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 
   h5 {
-    font-size: 1.25rem;
+    font-size: 1rem;
   }
 
   h6 {
