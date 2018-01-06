@@ -6,7 +6,7 @@ main:
   images: /assets/images//images//learning_teaching.png/
 
 - title: "可视化笔记"
-  url: /posts//infovis//Information-visualization-notes/
+  url: /posts//infovis/
   excerpt: "有得吃唔吃，罪大恶极"
   images: /assets/images//images//Tower_of_Babel.png/
 
@@ -16,6 +16,6 @@ main:
   images: /assets/images//images//TT.png/
 
 - title: "HTML笔记"
-  url: /posts//rwd//Response-Web-design-book-notes/
+  url: /posts//rwd/
   excerpt: "人生苦短，我用python"
   images: /assets/images//images//TG.png/

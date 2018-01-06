@@ -6,9 +6,10 @@ title:  "_posts上传中出现index of问题解决方法汇总"
 
 
 date:   2017-12-29 23:45:15 +0800
+header:
+ teaser: /assets//images/kezaisheng.jpg
 
-
-categories: jekyll updata
+categories: posts  rwd
 
 tags: jekyll
 ---

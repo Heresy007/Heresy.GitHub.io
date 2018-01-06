@@ -13,6 +13,7 @@ title                    : "Heresy"
 title_separator          : "-"
 name                     : "郑文浩"
 description              : "My website."
+affiliation              : "中山大学南方学院 <a href = 'http://wcy.nfu.edu.cn/zh/教学教务/培养方案/网络与新媒体/'>网络与新媒体</a> 培养方案核心课程学期作品，由 <a href='http://wcy.nfu.edu.cn/zh/学院概况/师资队伍/廖汉腾/'>廖汉腾副教授</a> 指导"
 url                      : "https://Heresy007.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -85,7 +86,7 @@ analytics:
 author:
   name             : "Heresy"
   avatar           : "/assets/images/touxiang.png"
-  bio              : "中山大学南方学院 2016级 网络与新媒体 "
+  bio              : "廖汉腾，副教授（网络与新媒体专业） 中山大学南方学院 新媒体研究中心代理主任 ，开设课程：《网络新媒体技术与协作》丶《信息可视化设计》丶《大数据统计》丶《Python语言》丶《网页设计与制作》丶《网站运营与管理实践》等。"
   location         : "广东-清远"
   email            : "1448658557@qq.com"
   uri              :

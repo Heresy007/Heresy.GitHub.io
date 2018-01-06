@@ -1,8 +1,10 @@
 ---
 
 layout: archive
-title:  "信息可视化笔记"
-date:   2017-12-22 23:45:15 +0800
+title:  "Information_visualization_notes"
+date:   2017-12-28 23:45:15 +0800
+header:
+ teaser: /assets//images/data3.png
 categories: posts infovis
 tags: infovis
 

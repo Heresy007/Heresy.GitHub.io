@@ -3,7 +3,7 @@ title: "文传院logo的左移右移动画"
 excerpt: "改进文传院WCY LOGO并加过渡及动画的移动特效."
 header:
   image: /assets/images/cat3.png
-  teaser: /assets/images/cat2.png
+  teaser: /assets/images/yellow.gif
 sidebar:
   - title: "Heresy"
     image: /assets/images/xiaoku.png

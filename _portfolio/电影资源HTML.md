@@ -3,7 +3,7 @@ title: "电影资源HTML"
 excerpt: ""
 header:
   image: /assets/images/
-  teaser: assets/images/taideng.png
+  teaser: assets/images/pika.gif
 
 ---
 <html lang="zh-cn">
