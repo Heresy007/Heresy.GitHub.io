@@ -44,12 +44,20 @@
     margin-top: 0;
 	}
 	#main > div > div > div:nth-child(0) {
-	width:1000px
+	width:100%
 
 	
 
 	}
-  
+	#main > div > div > div:nth-child(1){
+	width:1000px;
+	height:900px;
+	
+	}
+  #main > div > div > div:nth-child(2){
+	width:300px;
+	height:250px;
+	}
 
   h1 {
     font-size: 1rem;

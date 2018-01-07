@@ -9,7 +9,7 @@ categories: posts infovis
 tags: infovis
 
 ---
-1. 数据可视化课堂笔记
+1. 数据可视化课堂笔记(简要介绍tableau图标类型及其用法，通过地理信息数据补充让读者充分了解在tableau中地图的使用规范)
 
 1.1可视化图表类型
 
