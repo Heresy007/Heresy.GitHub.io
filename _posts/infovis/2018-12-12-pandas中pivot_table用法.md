@@ -1,10 +1,10 @@
----
+﻿---
 
 layout: archive
-title:  "pandas中pivot_table用法"
+title:  "pandas中pivot_table用法(一文看懂透视表pivot_table 首先读取数据，作为一个老火密，本文将火箭队当家吉祥物詹姆斯·哈登本赛季比赛数据作为数据集进行讲解)"
 date:   2017-12-30 23:45:15 +0800
 header:
- teaser: /assets//images/data2.jpg
+ teaser: /assets//images/data.jpg
 categories: posts infovis
 tags: infovis
 

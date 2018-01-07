@@ -2,9 +2,11 @@
 layout: archive
 title: "HTML5、css3响应式设计"
 excerpt: "HTML5、css3响应式设计"
+categories: posts  rwd
+Tages: rwd
 header:
   image: /assets/images/city2.png
-  teaser: /assets/images/cat.png
+  teaser: /assets/images/data.jpg
 sidebar:
   - title: "Heresy"
     image: /assets/images/
