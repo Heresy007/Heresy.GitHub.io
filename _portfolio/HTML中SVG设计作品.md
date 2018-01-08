@@ -1,6 +1,6 @@
 ---
-title: "文传院logo的左移右移动画"
-excerpt: "改进文传院WCY LOGO并加过渡及动画的移动特效."
+title: "文传院logo的左移右移动画(改进文传院WCY LOGO并加过渡及动画的移动特效.直接写入svg代码,参考<响应式Web设计+HTML5和CSS3实战>中svg章节的7.7.4的实例,让WCYLOGO中英文从左边沿着x轴旋转平移过来中心,让最外围的花纹从右边沿着x轴旋转平移过来中心.加入旋转和摇摆,logo中间的钟围绕中心渐变摆动.)"
+excerpt: "logo"
 header:
   image: /assets/images/cat3.png
   teaser: /assets/images/yellow.gif

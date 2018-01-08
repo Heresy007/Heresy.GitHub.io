@@ -1,7 +1,7 @@
 ---
 
 layout: archive
-title:  "Information_visualization_notes"
+title:  "Information_visualization_notes(简要介绍tableau图标类型及其用法，通过地理信息数据补充让读者充分了解在tableau中地图的使用规范)"
 date:   2017-12-28 23:45:15 +0800
 header:
  teaser: /assets//images/data3.png
